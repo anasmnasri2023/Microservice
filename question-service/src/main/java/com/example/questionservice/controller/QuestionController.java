@@ -4,7 +4,7 @@ package com.example.questionservice.controller;
 import com.example.questionservice.model.Question;
 import com.example.questionservice.model.QuestionWrapper;
 import com.example.questionservice.model.Response;
-import com.telusko.questionservice.service.QuestionService;
+import com.example.questionservice.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
