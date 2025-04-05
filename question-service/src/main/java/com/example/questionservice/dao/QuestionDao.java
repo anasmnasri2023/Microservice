@@ -1,4 +1,4 @@
-package com.telusko.questionservice.dao;
+package com.example.questionservice.dao;
 
 
 import com.telusko.questionservice.model.Question;
