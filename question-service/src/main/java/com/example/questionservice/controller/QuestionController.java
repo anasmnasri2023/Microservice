@@ -1,4 +1,4 @@
-package com.telusko.questionservice.controller;
+package com.example.questionservice.controller;
 
 
 import com.telusko.questionservice.model.Question;
